@@ -1,5 +1,4 @@
-//Names: Shanaldo Carty
-//ID#'s: 2108949
+//Author: Shanaldo Carty
 //Completed Date: Pending,2025
 
 import java.io.*;
